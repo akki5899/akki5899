@@ -55,8 +55,7 @@ I'm a **Senior Software Engineer** with over 3.5 years of experience specializin
 ## 📫 How to Reach Me
 
 - 📧 [Email](mailto:akshat199shah@gmail.com)
-- <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge
-" alt="LinkedIn Badge">[LinkedIn](https://linkedin.com/in/akshatshah)
+-  [LinkedIn](https://linkedin.com/in/akshatshah)
 - [GitHub](https://github.com/akshatshah)
 
 ## 📚 Coding Profiles
