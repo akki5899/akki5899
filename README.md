@@ -12,9 +12,9 @@
 
 <!-- Badges -->
 <p align="center">
-  <a href="https://linkedin.com/in/akshatshah"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-  <a href="https://twitter.com/your-username"><img src="https://img.shields.io/badge/Twitter-Follow-blue?style=flat&logo=twitter&logoColor=white" alt="Twitter Badge"></a>
-  <a href="https://github.com/akshatshah"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github&logoColor=white" alt="GitHub Badge"></a>
+  <a href="https://linkedin.com/in/akshat-shah-087518186"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+  <a href="https://x.com/A_X_A_T"><img src="https://img.shields.io/badge/Twitter-Follow-blue?style=flat&logo=twitter&logoColor=white" alt="Twitter Badge"></a>
+  <a href="https://github.com/akki5899"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github&logoColor=white" alt="GitHub Badge"></a>
   <a href="mailto:akshat199shah@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail&logoColor=white" alt="Email Badge"></a>
 </p>
 
@@ -55,7 +55,8 @@ I'm a **Senior Software Engineer** with over 3.5 years of experience specializin
 ## 📫 How to Reach Me
 
 - 📧 [Email](mailto:akshat199shah@gmail.com)
-- [LinkedIn](https://linkedin.com/in/akshatshah)
+- <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge
+" alt="LinkedIn Badge">[LinkedIn](https://linkedin.com/in/akshatshah)
 - [GitHub](https://github.com/akshatshah)
 
 ## 📚 Coding Profiles
