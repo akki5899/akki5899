@@ -1,12 +1,12 @@
 <!-- Banner -->
-<p align="center">
+<!-- B<p align="center">
   <img src="https://github.com/your-username/your-repo/blob/main/banner.png" alt="Banner" width="100%">
 </p>
 
 <!-- Profile Picture -->
-<p align="center">
+<!-- B<p align="center">
   <img src="https://avatars.githubusercontent.com/u/akshatshah" alt="Profile Picture" width="150" height="150" style="border-radius: 50%;">
-</p>
+</p> -->
 
 <h1 align="center">Hi there, I'm Akshat Shah 👋</h1>
 
@@ -61,8 +61,8 @@ I'm a **Senior Software Engineer** with over 3.5 years of experience specializin
 ## 📚 Coding Profiles
 
 - [LeetCode](https://leetcode.com/akshatshah)
-- [HackerRank](https://hackerrank.com/akshatshah)
-
+- [HackerRank](https://www.hackerrank.com/profile/akshat199shah)
+<!-- 
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -71,4 +71,4 @@ I'm a **Senior Software Engineer** with over 3.5 years of experience specializin
 
 ## 🏅 Popular Repository
 
-- [Your Notable Repository](https://github.com/akshatshah/repository-name) (Replace with your popular repository)
+- [Your Notable Repository](https://github.com/akshatshah/repository-name) (Replace with your popular repository) -->
