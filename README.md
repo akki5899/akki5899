@@ -20,7 +20,7 @@
 
 ## 🚀 About Me
 
-I'm a **Senior Software Engineer** with over 3.5 years of experience specializing in backend development with **Python, Django**, and **Django Rest Framework (DRF)**. Passionate about solving complex problems and optimizing systems.
+I'm a **Senior Software Engineer** with over 4+ years of experience specializing in backend development with **Python, Django**, and **Django Rest Framework (DRF)**. Passionate about solving complex problems and optimizing systems.
 
 ## 💼 Current Focus
 
